@@ -19,7 +19,7 @@
 
 ## 📌 Problem Statement
 The dataset is related to **direct marketing campaigns** of a **Portuguese banking institution**.  
-📞 The marketing campaigns were based on phone calls. Often, more than one contact with the same client was required in order to determine if the product (bank term deposit) would be **subscribed (‘yes’)** or **not subscribed (‘no’)**.
+The marketing campaigns were based on phone calls. Often, more than one contact with the same client was required in order to determine if the product (bank term deposit) would be **subscribed (‘yes’)** or **not subscribed (‘no’)**.
 
 In this project, we build a **predictive model** to decide whether a campaign will be successful in getting a client to sign up for the term deposits.
 
